@@ -5,7 +5,7 @@ let 哎呀呀这是我的ID啊 = "ssylqwj"; // 订阅路径
 let 哎呀呀这是我的VL密钥 = "c2ccd360-c792-4a1b-ae8a-ae2873a036b1"; // UUID
 
 let 我的优选 = []; // 节点列表
-let 我的优选TXT = ["https://raw.githubusercontent.com/shulng/shulng/refs/heads/main/ip.txt"]; // 优选TXT路径
+let 我的优选TXT = ["https://github.com/auto2028/tsgz/raw/refs/heads/main/yxip.txt"]; // 优选TXT路径
 
 let 我的节点名字 = "NAT64"; // 节点名字
 
