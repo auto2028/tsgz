@@ -5,3 +5,4 @@ time.is
 wuk.woxxxxxx.nyc.mn
 pages.cloudflare.com
 workers.cloudflare.com
+cloud.microsoft
