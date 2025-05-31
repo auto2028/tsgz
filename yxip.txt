@@ -11,6 +11,5 @@ icook.hk
 www.visa.com.tw
 cdnjs.com
 portal.cloudflarepartners.com
-support.cloudflarewarp.com
 developers.cloudflare.com
 ns.cloudflare.com
