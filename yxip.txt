@@ -6,10 +6,9 @@ wuk.woxxxxxx.nyc.mn
 pages.cloudflare.com
 workers.cloudflare.com
 zrf.me
-wto.org
 icook.hk
-www.visa.com.tw
 cdnjs.com
 portal.cloudflarepartners.com
 developers.cloudflare.com
 ns.cloudflare.com
+nrt.onezun.hidns.vip
