@@ -117,7 +117,7 @@ async function 解析VL标头(VL数据, WS接口, TCP接口) {
   建立传输管道(WS接口, TCP接口, 写入初始数据);
 }
 
-// 将IPv4地址转换为NAT64 IPv6地址
+// 将IPv4地址转换为NAT64 IPv6地址(de黑森州-2001:67c:2960:6464:: )
 function 转换IPv4到NAT64(ipv4地址) {
   const 部分 = ipv4地址.split(".");
   const 十六进制 = 部分.map(段 => parseInt(段, 10).toString(16).padStart(2, "0"));
