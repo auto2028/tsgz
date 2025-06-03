@@ -121,7 +121,7 @@ async function 解析VL标头(VL数据, WS接口, TCP接口) {
 function 转换IPv4到NAT64(ipv4地址) {
   const 部分 = ipv4地址.split(".");
   const 十六进制 = 部分.map(段 => parseInt(段, 10).toString(16).padStart(2, "0"));
-  return `[2001:67c:2960:6464::${十六进制[0]}${十六进制[1]}:${十六进制[2]}${十六进制[3]}]`;
+  return `[2602:fc59:b0:64::${十六进制[0]}${十六进制[1]}:${十六进制[2]}${十六进制[3]}]`;
 }
 
 // 解析域名到IPv4地址
