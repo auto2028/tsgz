@@ -5,10 +5,5 @@ time.is
 wuk.woxxxxxx.nyc.mn
 pages.cloudflare.com
 workers.cloudflare.com
-zrf.me
-icook.hk
-cdnjs.com
 portal.cloudflarepartners.com
 developers.cloudflare.com
-ns.cloudflare.com
-nrt.onezun.hidns.vip
