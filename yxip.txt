@@ -7,3 +7,4 @@ pages.cloudflare.com
 workers.cloudflare.com
 portal.cloudflarepartners.com
 developers.cloudflare.com
+jeff.ns.cloudflare.com
